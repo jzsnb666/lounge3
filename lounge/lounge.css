@@ -40,3 +40,30 @@ body {
 body {
       text-decoration: underline;
 }
+body {
+      font-size: small;
+      font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+h1, h2 {
+       color: #007e7e;
+}
+h1 {
+      font-size: 150%;
+}
+h2 {
+      font-size: 130%;
+}
+body {
+      font-size: small;
+      font-family: Verdana, Helvetica, Arial, sans-serif;
+      line-height: 1.6em;
+}
+p{
+  padding: 0px
+}
+p{
+  margin: 0px
+}
+p{
+  border:ridge red
+}
